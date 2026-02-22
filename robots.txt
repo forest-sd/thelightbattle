@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://thelightbattle.pages.dev/sitemap.xml
+Sitemap: https://thelightbattle.com/sitemap.xml
