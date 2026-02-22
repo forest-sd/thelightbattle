@@ -8,10 +8,29 @@
     <lastBuildDate>2026-02-21</lastBuildDate>
     <atom:link href="https://thelightbattle.com/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Evidence-Based Approaches to Stress Management</title>
+      <link>https://thelightbattle.com/blog/evidence-based-approaches-to-stress-management/</link>
+      <description>Research-backed strategies for managing chronic stress, from cognitive behavioral techniques to mindfulness practices.</description>
+    </item>
+    <item>
+      <title>Nutrition Myths Versus Scientific Consensus</title>
+      <link>https://thelightbattle.com/blog/nutrition-myths-versus-scientific-consensus/</link>
+      <description>Separating evidence-based nutrition advice from popular misconceptions using peer-reviewed research.</description>
+    </item>
+    <item>
+      <title>The Role of Community in Personal Wellness</title>
+      <link>https://thelightbattle.com/blog/the-role-of-community-in-personal-wellness/</link>
+      <description>How social connections, support networks, and community engagement contribute to physical and mental health.</description>
+    </item>
+    <item>
+      <title>The Science Behind Sleep and Recovery</title>
+      <link>https://thelightbattle.com/blog/the-science-behind-sleep-and-recovery/</link>
+      <description>How sleep architecture affects physical recovery, cognitive function, and long-term health outcomes.</description>
+    </item>
+    <item>
       <title>The Science of Holistic Wellness: An Evidence-Based Approach</title>
       <link>https://thelightbattle.com/blog/the-science-of-holistic-wellness-an-evidence-based-approach/</link>
       <description>The Science of Holistic Wellness: An Evidence-Based Approach — an in-depth exploration with evidence-based insights.</description>
-      <pubDate>2026-02-21</pubDate>
     </item>
   </channel>
 </rss>
